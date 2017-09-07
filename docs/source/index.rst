@@ -1,15 +1,26 @@
-.. _contents:
+.. The Cabpool App documentation master file, created by
+   sphinx-quickstart on Thu Aug 17 11:19:26 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-Welcome to se-project's documentation!
-======================================
-
-Welcome to se-project's official documentation.
+Welcome to The Cabpool App's documentation!
+===========================================
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
-   about
-   install
-   tutorial
-   support
-   licence
+    about
+    feasibility
+    requirements
+    api
+    android
+    license
+    
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

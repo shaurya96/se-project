@@ -1,6 +1,6 @@
-============
-Installation
-============
+=================
+Feasibility Tests
+=================
 
 At the command line::
 
@@ -12,12 +12,3 @@ Or, if you have virtualenvwrapper installed:
 
     mkvirtualenv crawler
     pip install crawler
-
-For Windows
-^^^^^^^^^^^
-
-For Linux
-^^^^^^^^^
-
-For Mac OS X
-^^^^^^^^^^^^
