@@ -2,6 +2,9 @@
 Feasibility Tests
 =================
 
+.. toctree::
+    :maxdepth: 1
+
 At the command line::
 
     easy_install crawler
