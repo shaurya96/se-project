@@ -128,7 +128,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'TheCabpoolApp.tex', 'The Cabpool App Documentation',
-     'Priyansh Rastogi, Shaurya Jain, Kartik Jain.{[}D{[}D{[}D{[}D{[}D{[}D{[}D{[}D{[}D{[}D{[}D{[}D{[}D{[}D{[}D{[}C{[}C{[}CShreyansh {[}h Agrawal, Kartik Jain', 'manual'),
+     'Priyansh Rastogi, Shaurya Jain, Shreyansh Agrawal, Kartik Jain', 'manual'),
 ]
 
 
@@ -149,7 +149,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'TheCabpoolApp', 'The Cabpool App Documentation',
-     author, 'TheCabpoolApp', 'One line description of project.',
+     author, 'TheCabpoolApp', 'Engineering The Cabpool App',
      'Miscellaneous'),
 ]
 
