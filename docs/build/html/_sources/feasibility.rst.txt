@@ -1,6 +1,6 @@
-=================
-Feasibility Tests
-=================
+==================
+Feasibility Report
+==================
 
 .. toctree::
     :maxdepth: 1

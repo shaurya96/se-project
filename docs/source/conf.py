@@ -127,7 +127,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'TheCabpoolApp.tex', 'The Cabpool App Documentation',
+    (master_doc, 'TheCabpoolApp.tex', 'The Cabpool App\nSoftware Project Management',
      'Priyansh Rastogi, Shaurya Jain, Shreyansh Agrawal, Kartik Jain', 'manual'),
 ]
 
@@ -137,7 +137,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'thecabpoolapp', 'The Cabpool App Documentation',
+    (master_doc, 'thecabpoolapp', 'The Cabpool App\nSoftware Project Management',
      [author], 1)
 ]
 
@@ -148,7 +148,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'TheCabpoolApp', 'The Cabpool App Documentation',
+    (master_doc, 'TheCabpoolApp', 'The Cabpool App\nSoftware Project Management',
      author, 'TheCabpoolApp', 'Engineering The Cabpool App',
      'Miscellaneous'),
 ]

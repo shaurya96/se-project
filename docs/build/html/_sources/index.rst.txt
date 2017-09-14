@@ -12,6 +12,7 @@ Welcome to The Cabpool App's documentation!
     about
     feasibility
     requirements
+    design
     api
     android
     license
